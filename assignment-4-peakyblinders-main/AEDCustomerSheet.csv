@@ -1,0 +1,1081 @@
+Customer ,Channel,Market ,SubMarket,Bundle Bought,Price Sold At,Floor,Target,Ceiling,SalesPerson
+16,Ad,B2B,High End,1,6973,5910,6214,7504,SalesPerson1
+16,Ad,B2B,Mid Cap,2,6963,6579,6963,8403,SalesPerson2
+16,Ad,B2B,Low End,3,4402,4134,4402,5175,SalesPerson3
+16,TV,B2B,High End,4,6214,5910,6214,7504,SalesPerson4
+16,TV,B2B,Mid Cap,5,8403,6579,6963,8403,SalesPerson5
+16,TV,B2B,Low End,6,4402,4134,4402,5175,SalesPerson6
+16,Web,B2B,High End,7,6325,5910,6214,7504,SalesPerson7
+16,Web,B2B,Mid Cap,8,7132,6579,6963,8403,SalesPerson8
+16,Web,B2B,Low End,9,4420,4134,4402,5175,SalesPerson9
+16,Radio,B2B,High End,10,6500,5910,6214,7504,SalesPerson10
+16,Radio,B2B,Mid Cap,11,7132,6579,6963,8403,SalesPerson11
+16,Radio,B2B,Low End,12,4480,4134,4402,5175,SalesPerson12
+1,Ad,Teen,High End,13,4380,4067,4334,5070,SalesPerson1
+1,Ad,Teen,Mid Cap,14,2600,2379,2576,2973,SalesPerson2
+1,Ad,Teen,Low End,15,1870,1693,1854,2197,SalesPerson3
+1,TV,Teen,High End,16,4389,4067,4334,5070,SalesPerson4
+1,TV,Teen,Mid Cap,17,2600,2379,2576,2973,SalesPerson5
+1,TV,Teen,Low End,18,1900,1693,1854,2197,SalesPerson6
+1,Web,Teen,High End,19,4390,4067,4334,5070,SalesPerson7
+1,Web,Teen,Mid Cap,20,2620,2379,2576,2973,SalesPerson8
+1,Web,Teen,Low End,21,1900,1693,1854,2197,SalesPerson9
+1,Radio,Teen,High End,22,4390,4067,4334,5070,SalesPerson10
+1,Radio,Teen,Mid Cap,23,2600,2379,2576,2973,SalesPerson11
+1,Radio,Teen,Low End,24,1900,1693,1854,2197,SalesPerson12
+4,Ad,College Student,High End,25,5690,5295,5634,6768,SalesPerson1
+4,Ad,College Student,Mid Cap,26,4023,3698,3966,4771,SalesPerson2
+4,Ad,College Student,Low End,27,2650,2409,2610,3013,SalesPerson3
+4,TV,College Student,High End,28,5678,5295,5634,6768,SalesPerson4
+4,TV,College Student,Mid Cap,29,4050,3698,3966,4771,SalesPerson5
+4,TV,College Student,Low End,30,2872,2409,2610,3013,SalesPerson6
+4,Web,College Student,High End,31,6667,5295,5634,6768,SalesPerson7
+4,Web,College Student,Mid Cap,32,4363,3698,3966,4771,SalesPerson8
+4,Web,College Student,Low End,33,2947,2409,2610,3013,SalesPerson9
+4,Radio,College Student,High End,34,6180,5295,5634,6768,SalesPerson10
+4,Radio,College Student,Mid Cap,35,4258,3698,3966,4771,SalesPerson11
+4,Radio,College Student,Low End,36,2626,2409,2610,3013,SalesPerson12
+7,Ad,Millenial,High End,37,8081,7073,7494,9046,SalesPerson1
+7,Ad,Millenial,Mid Cap,38,6315,5735,6106,7298,SalesPerson2
+7,Ad,Millenial,Low End,39,4254,3296,3574,4300,SalesPerson3
+7,TV,Millenial,High End,40,7993,7073,7494,9046,SalesPerson4
+7,TV,Millenial,Mid Cap,41,7286,5735,6106,7298,SalesPerson5
+7,TV,Millenial,Low End,42,3866,3296,3574,4300,SalesPerson6
+7,Web,Millenial,High End,43,8825,7073,7494,9046,SalesPerson7
+7,Web,Millenial,Mid Cap,44,6462,5735,6106,7298,SalesPerson8
+7,Web,Millenial,Low End,45,4029,3296,3574,4300,SalesPerson9
+7,Radio,Millenial,High End,46,8026,7073,7494,9046,SalesPerson10
+7,Radio,Millenial,Mid Cap,47,7126,5735,6106,7298,SalesPerson11
+7,Radio,Millenial,Low End,48,3918,3296,3574,4300,SalesPerson12
+10,Ad,Genz,High End,49,6268,5725,5984,7504,SalesPerson1
+10,Ad,Genz,Mid Cap,50,2308,2117,2286,2843,SalesPerson2
+10,Ad,Genz,Low End,51,5269,4333,4570,5351,SalesPerson3
+10,TV,Genz,High End,52,4328,3965,4271,5007,SalesPerson4
+10,TV,Genz,Mid Cap,53,4017,3356,3642,4297,SalesPerson5
+10,TV,Genz,Low End,54,2797,2382,2551,2990,SalesPerson6
+10,Web,Genz,High End,55,8297,6601,6977,8429,SalesPerson7
+10,Web,Genz,Mid Cap,56,5548,4561,4862,5738,SalesPerson8
+10,Web,Genz,Low End,57,3867,3015,3296,4059,SalesPerson9
+10,Radio,Genz,High End,58,5594,4643,4975,6058,SalesPerson10
+10,Radio,Genz,Mid Cap,59,4110,3210,3464,4192,SalesPerson11
+10,Radio,Genz,Low End,60,2081,1683,1843,2278,SalesPerson12
+13,Ad,Senior,High End,61,8456,7135,7524,9018,SalesPerson1
+13,Ad,Senior,Mid Cap,62,5645,4484,4841,5906,SalesPerson2
+13,Ad,Senior,Low End,63,2986,2713,2902,3361,SalesPerson3
+13,TV,Senior,High End,64,4896,4005,4341,5207,SalesPerson4
+13,TV,Senior,Mid Cap,65,5425,4767,5065,6021,SalesPerson5
+13,TV,Senior,Low End,66,4317,3528,3796,4551,SalesPerson6
+13,Web,Senior,High End,67,6465,5728,6152,7403,SalesPerson7
+13,Web,Senior,Mid Cap,68,5877,5249,5581,6686,SalesPerson8
+13,Web,Senior,Low End,69,3960,2875,3134,4021,SalesPerson9
+13,Radio,Senior,High End,70,4347,3571,3840,4588,SalesPerson10
+13,Radio,Senior,Mid Cap,71,3494,3206,3450,4029,SalesPerson11
+13,Radio,Senior,Low End,72,3608,2944,3167,3831,SalesPerson12
+17,Ad,B2B,High End,1,6821,5910,6214,7504,SalesPerson1
+17,Ad,B2B,Mid Cap,2,7000,6579,6963,8403,SalesPerson2
+17,Ad,B2B,Low End,3,4565,4134,4402,5175,SalesPerson3
+17,TV,B2B,High End,4,6399,5910,6214,7504,SalesPerson4
+17,TV,B2B,Mid Cap,5,8311,6579,6963,8403,SalesPerson5
+17,TV,B2B,Low End,6,4578,4134,4402,5175,SalesPerson6
+17,Web,B2B,High End,7,6450,5910,6214,7504,SalesPerson7
+17,Web,B2B,Mid Cap,8,7285,6579,6963,8403,SalesPerson8
+17,Web,B2B,Low End,9,4556,4134,4402,5175,SalesPerson9
+17,Radio,B2B,High End,10,6789,5910,6214,7504,SalesPerson10
+17,Radio,B2B,Mid Cap,11,7278,6579,6963,8403,SalesPerson11
+17,Radio,B2B,Low End,12,4575,4134,4402,5175,SalesPerson12
+2,Ad,Teen,High End,13,4485,4067,4334,5070,SalesPerson1
+2,Ad,Teen,Mid Cap,14,2685,2379,2576,2973,SalesPerson2
+2,Ad,Teen,Low End,15,1945,1693,1854,2197,SalesPerson3
+2,TV,Teen,High End,16,4456,4067,4334,5070,SalesPerson4
+2,TV,Teen,Mid Cap,17,2685,2379,2576,2973,SalesPerson5
+2,TV,Teen,Low End,18,1975,1693,1854,2197,SalesPerson6
+2,Web,Teen,High End,19,4456,4067,4334,5070,SalesPerson7
+2,Web,Teen,Mid Cap,20,2705,2379,2576,2973,SalesPerson8
+2,Web,Teen,Low End,21,1975,1693,1854,2197,SalesPerson9
+2,Radio,Teen,High End,22,4456,4067,4334,5070,SalesPerson10
+2,Radio,Teen,Mid Cap,23,2685,2379,2576,2973,SalesPerson11
+2,Radio,Teen,Low End,24,1975,1693,1854,2197,SalesPerson12
+5,Ad,College Student,High End,25,5803,5295,5634,6768,SalesPerson1
+5,Ad,College Student,Mid Cap,26,4158,3698,3966,4771,SalesPerson2
+5,Ad,College Student,Low End,27,2700,2409,2610,3013,SalesPerson3
+5,TV,College Student,High End,28,5987,5295,5634,6768,SalesPerson4
+5,TV,College Student,Mid Cap,29,4150,3698,3966,4771,SalesPerson5
+5,TV,College Student,Low End,30,2874,2409,2610,3013,SalesPerson6
+5,Web,College Student,High End,31,5985,5295,5634,6768,SalesPerson7
+5,Web,College Student,Mid Cap,32,4371,3698,3966,4771,SalesPerson8
+5,Web,College Student,Low End,33,2619,2409,2610,3013,SalesPerson9
+5,Radio,College Student,High End,34,6750,5295,5634,6768,SalesPerson10
+5,Radio,College Student,Mid Cap,35,4325,3698,3966,4771,SalesPerson11
+5,Radio,College Student,Low End,36,2697,2409,2610,3013,SalesPerson12
+8,Ad,Millenial,High End,37,7696,7073,7494,9046,SalesPerson1
+8,Ad,Millenial,Mid Cap,38,6800,5735,6106,7298,SalesPerson2
+8,Ad,Millenial,Low End,39,4063,3296,3574,4300,SalesPerson3
+8,TV,Millenial,High End,40,8607,7073,7494,9046,SalesPerson4
+8,TV,Millenial,Mid Cap,41,6220,5735,6106,7298,SalesPerson5
+8,TV,Millenial,Low End,42,4239,3296,3574,4300,SalesPerson6
+8,Web,Millenial,High End,43,7875,7073,7494,9046,SalesPerson7
+8,Web,Millenial,Mid Cap,44,6925,5735,6106,7298,SalesPerson8
+8,Web,Millenial,Low End,45,3690,3296,3574,4300,SalesPerson9
+8,Radio,Millenial,High End,46,8293,7073,7494,9046,SalesPerson10
+8,Radio,Millenial,Mid Cap,47,7246,5735,6106,7298,SalesPerson11
+8,Radio,Millenial,Low End,48,3789,3296,3574,4300,SalesPerson12
+11,Ad,Genz,High End,49,6242,5725,5984,7504,SalesPerson1
+11,Ad,Genz,Mid Cap,50,2303,2117,2286,2843,SalesPerson2
+11,Ad,Genz,Low End,51,4889,4333,4570,5351,SalesPerson3
+11,TV,Genz,High End,52,4755,3965,4271,5007,SalesPerson4
+11,TV,Genz,Mid Cap,53,4240,3356,3642,4297,SalesPerson5
+11,TV,Genz,Low End,54,2651,2382,2551,2990,SalesPerson6
+11,Web,Genz,High End,55,7942,6601,6977,8429,SalesPerson7
+11,Web,Genz,Mid Cap,56,5118,4561,4862,5738,SalesPerson8
+11,Web,Genz,Low End,57,3451,3015,3296,4059,SalesPerson9
+11,Radio,Genz,High End,58,5352,4643,4975,6058,SalesPerson10
+11,Radio,Genz,Mid Cap,59,3670,3210,3464,4192,SalesPerson11
+11,Radio,Genz,Low End,60,2174,1683,1843,2278,SalesPerson12
+13,Ad,Senior,High End,61,7969,7135,7524,9018,SalesPerson1
+14,Ad,Senior,Mid Cap,62,5861,4484,4841,5906,SalesPerson2
+14,Ad,Senior,Low End,63,3089,2713,2902,3361,SalesPerson3
+14,TV,Senior,High End,64,4991,4005,4341,5207,SalesPerson4
+14,TV,Senior,Mid Cap,65,5941,4767,5065,6021,SalesPerson5
+14,TV,Senior,Low End,66,3944,3528,3796,4551,SalesPerson6
+14,Web,Senior,High End,67,6906,5728,6152,7403,SalesPerson7
+14,Web,Senior,Mid Cap,68,6500,5249,5581,6686,SalesPerson8
+14,Web,Senior,Low End,69,3986,2875,3134,4021,SalesPerson9
+14,Radio,Senior,High End,70,4301,3571,3840,4588,SalesPerson10
+14,Radio,Senior,Mid Cap,71,3943,3206,3450,4029,SalesPerson11
+14,Radio,Senior,Low End,72,3686,2944,3167,3831,SalesPerson12
+18,Ad,B2B,High End,1,6738,5910,6214,7504,SalesPerson1
+18,Ad,B2B,Mid Cap,2,7123,6579,6963,8403,SalesPerson2
+18,Ad,B2B,Low End,3,4689,4134,4402,5175,SalesPerson3
+18,TV,B2B,High End,4,6423,5910,6214,7504,SalesPerson4
+18,TV,B2B,Mid Cap,5,8234,6579,6963,8403,SalesPerson5
+18,TV,B2B,Low End,6,4689,4134,4402,5175,SalesPerson6
+18,Web,B2B,High End,7,6582,5910,6214,7504,SalesPerson7
+18,Web,B2B,Mid Cap,8,7421,6579,6963,8403,SalesPerson8
+18,Web,B2B,Low End,9,4678,4134,4402,5175,SalesPerson9
+18,Radio,B2B,High End,10,7050,5910,6214,7504,SalesPerson10
+18,Radio,B2B,Mid Cap,11,7414,6579,6963,8403,SalesPerson11
+18,Radio,B2B,Low End,12,4662,4134,4402,5175,SalesPerson12
+3,Ad,Teen,High End,13,4590,4067,4334,5070,SalesPerson1
+3,Ad,Teen,Mid Cap,14,2743,2379,2576,2973,SalesPerson2
+3,Ad,Teen,Low End,15,2003,1693,1854,2197,SalesPerson3
+3,TV,Teen,High End,16,4523,4067,4334,5070,SalesPerson4
+3,TV,Teen,Mid Cap,17,2750,2379,2576,2973,SalesPerson5
+3,TV,Teen,Low End,18,2005,1693,1854,2197,SalesPerson6
+3,Web,Teen,High End,19,4522,4067,4334,5070,SalesPerson7
+3,Web,Teen,Mid Cap,20,2783,2379,2576,2973,SalesPerson8
+3,Web,Teen,Low End,21,2023,1693,1854,2197,SalesPerson9
+3,Radio,Teen,High End,22,4512,4067,4334,5070,SalesPerson10
+3,Radio,Teen,Mid Cap,23,2730,2379,2576,2973,SalesPerson11
+3,Radio,Teen,Low End,24,2034,1693,1854,2197,SalesPerson12
+6,Ad,College Student,High End,25,5921,5295,5634,6768,SalesPerson1
+6,Ad,College Student,Mid Cap,26,4215,3698,3966,4771,SalesPerson2
+6,Ad,College Student,Low End,27,2760,2409,2610,3013,SalesPerson3
+6,TV,College Student,High End,28,6092,5295,5634,6768,SalesPerson4
+6,TV,College Student,Mid Cap,29,4250,3698,3966,4771,SalesPerson5
+6,TV,College Student,Low End,30,2917,2409,2610,3013,SalesPerson6
+6,Web,College Student,High End,31,5803,5295,5634,6768,SalesPerson7
+6,Web,College Student,Mid Cap,32,4197,3698,3966,4771,SalesPerson8
+6,Web,College Student,Low End,33,2939,2409,2610,3013,SalesPerson9
+6,Radio,College Student,High End,34,6232,5295,5634,6768,SalesPerson10
+6,Radio,College Student,Mid Cap,35,4432,3698,3966,4771,SalesPerson11
+6,Radio,College Student,Low End,36,2979,2409,2610,3013,SalesPerson12
+9,Ad,Millenial,High End,37,8060,7073,7494,9046,SalesPerson1
+9,Ad,Millenial,Mid Cap,38,6734,5735,6106,7298,SalesPerson2
+9,Ad,Millenial,Low End,39,4173,3296,3574,4300,SalesPerson3
+9,TV,Millenial,High End,40,8861,7073,7494,9046,SalesPerson4
+9,TV,Millenial,Mid Cap,41,6116,5735,6106,7298,SalesPerson5
+9,TV,Millenial,Low End,42,3863,3296,3574,4300,SalesPerson6
+9,Web,Millenial,High End,43,8576,7073,7494,9046,SalesPerson7
+9,Web,Millenial,Mid Cap,44,6764,5735,6106,7298,SalesPerson8
+9,Web,Millenial,Low End,45,3628,3296,3574,4300,SalesPerson9
+9,Radio,Millenial,High End,46,8933,7073,7494,9046,SalesPerson10
+9,Radio,Millenial,Mid Cap,47,6516,5735,6106,7298,SalesPerson11
+9,Radio,Millenial,Low End,48,3609,3296,3574,4300,SalesPerson12
+12,Ad,Genz,High End,49,7350,5725,5984,7504,SalesPerson1
+12,Ad,Genz,Mid Cap,50,2591,2117,2286,2843,SalesPerson2
+12,Ad,Genz,Low End,51,4928,4333,4570,5351,SalesPerson3
+12,TV,Genz,High End,52,4745,3965,4271,5007,SalesPerson4
+12,TV,Genz,Mid Cap,53,3787,3356,3642,4297,SalesPerson5
+12,TV,Genz,Low End,54,2910,2382,2551,2990,SalesPerson6
+12,Web,Genz,High End,55,7681,6601,6977,8429,SalesPerson7
+12,Web,Genz,Mid Cap,56,5600,4561,4862,5738,SalesPerson8
+12,Web,Genz,Low End,57,3509,3015,3296,4059,SalesPerson9
+12,Radio,Genz,High End,58,5111,4643,4975,6058,SalesPerson10
+12,Radio,Genz,Mid Cap,59,3794,3210,3464,4192,SalesPerson11
+12,Radio,Genz,Low End,60,2219,1683,1843,2278,SalesPerson12
+13,Ad,Senior,High End,61,7712,7135,7524,9018,SalesPerson1
+15,Ad,Senior,Mid Cap,62,5825,4484,4841,5906,SalesPerson2
+15,Ad,Senior,Low End,63,3273,2713,2902,3361,SalesPerson3
+15,TV,Senior,High End,64,4908,4005,4341,5207,SalesPerson4
+15,TV,Senior,Mid Cap,65,5478,4767,5065,6021,SalesPerson5
+15,TV,Senior,Low End,66,4435,3528,3796,4551,SalesPerson6
+15,Web,Senior,High End,67,6837,5728,6152,7403,SalesPerson7
+15,Web,Senior,Mid Cap,68,6174,5249,5581,6686,SalesPerson8
+15,Web,Senior,Low End,69,3572,2875,3134,4021,SalesPerson9
+15,Radio,Senior,High End,70,3988,3571,3840,4588,SalesPerson10
+15,Radio,Senior,Mid Cap,71,3620,3206,3450,4029,SalesPerson11
+15,Radio,Senior,Low End,72,3223,2944,3167,3831,SalesPerson12
+19,Ad,B2B,High End,1,7345,5910,6214,7504,SalesPerson1
+19,Ad,B2B,Mid Cap,2,7245,6579,6963,8403,SalesPerson2
+19,Ad,B2B,Low End,3,4723,4134,4402,5175,SalesPerson3
+19,TV,B2B,High End,4,6543,5910,6214,7504,SalesPerson4
+19,TV,B2B,Mid Cap,5,8122,6579,6963,8403,SalesPerson5
+19,TV,B2B,Low End,6,4785,4134,4402,5175,SalesPerson6
+19,Web,B2B,High End,7,6698,5910,6214,7504,SalesPerson7
+19,Web,B2B,Mid Cap,8,7578,6579,6963,8403,SalesPerson8
+19,Web,B2B,Low End,9,4789,4134,4402,5175,SalesPerson9
+19,Radio,B2B,High End,10,7325,5910,6214,7504,SalesPerson10
+19,Radio,B2B,Mid Cap,11,7562,6579,6963,8403,SalesPerson11
+19,Radio,B2B,Low End,12,4750,4134,4402,5175,SalesPerson12
+1,Ad,Teen,High End,13,4695,4067,4334,5070,SalesPerson1
+1,Ad,Teen,Mid Cap,14,2801,2379,2576,2973,SalesPerson2
+1,Ad,Teen,Low End,15,2066,1693,1854,2197,SalesPerson3
+1,TV,Teen,High End,16,4590,4067,4334,5070,SalesPerson4
+1,TV,Teen,Mid Cap,17,2803,2379,2576,2973,SalesPerson5
+1,TV,Teen,Low End,18,2050,1693,1854,2197,SalesPerson6
+1,Web,Teen,High End,19,4588,4067,4334,5070,SalesPerson7
+1,Web,Teen,Mid Cap,20,2846,2379,2576,2973,SalesPerson8
+1,Web,Teen,Low End,21,2100,1693,1854,2197,SalesPerson9
+1,Radio,Teen,High End,22,4637,4067,4334,5070,SalesPerson10
+1,Radio,Teen,Mid Cap,23,2801,2379,2576,2973,SalesPerson11
+1,Radio,Teen,Low End,24,2087,1693,1854,2197,SalesPerson12
+4,Ad,College Student,High End,25,6056,5295,5634,6768,SalesPerson1
+4,Ad,College Student,Mid Cap,26,4352,3698,3966,4771,SalesPerson2
+4,Ad,College Student,Low End,27,2820,2409,2610,3013,SalesPerson3
+4,TV,College Student,High End,28,6210,5295,5634,6768,SalesPerson4
+4,TV,College Student,Mid Cap,29,4350,3698,3966,4771,SalesPerson5
+4,TV,College Student,Low End,30,2811,2409,2610,3013,SalesPerson6
+4,Web,College Student,High End,31,6093,5295,5634,6768,SalesPerson7
+4,Web,College Student,Mid Cap,32,4312,3698,3966,4771,SalesPerson8
+4,Web,College Student,Low End,33,2953,2409,2610,3013,SalesPerson9
+4,Radio,College Student,High End,34,5770,5295,5634,6768,SalesPerson10
+4,Radio,College Student,Mid Cap,35,4121,3698,3966,4771,SalesPerson11
+4,Radio,College Student,Low End,36,2723,2409,2610,3013,SalesPerson12
+7,Ad,Millenial,High End,37,7685,7073,7494,9046,SalesPerson1
+7,Ad,Millenial,Mid Cap,38,6569,5735,6106,7298,SalesPerson2
+7,Ad,Millenial,Low End,39,3913,3296,3574,4300,SalesPerson3
+7,TV,Millenial,High End,40,8186,7073,7494,9046,SalesPerson4
+7,TV,Millenial,Mid Cap,41,7244,5735,6106,7298,SalesPerson5
+7,TV,Millenial,Low End,42,3861,3296,3574,4300,SalesPerson6
+7,Web,Millenial,High End,43,7612,7073,7494,9046,SalesPerson7
+7,Web,Millenial,Mid Cap,44,6979,5735,6106,7298,SalesPerson8
+7,Web,Millenial,Low End,45,3843,3296,3574,4300,SalesPerson9
+7,Radio,Millenial,High End,46,8745,7073,7494,9046,SalesPerson10
+7,Radio,Millenial,Mid Cap,47,7212,5735,6106,7298,SalesPerson11
+7,Radio,Millenial,Low End,48,4209,3296,3574,4300,SalesPerson12
+10,Ad,Genz,High End,49,7154,5725,5984,7504,SalesPerson1
+10,Ad,Genz,Mid Cap,50,2468,2117,2286,2843,SalesPerson2
+10,Ad,Genz,Low End,51,4698,4333,4570,5351,SalesPerson3
+10,TV,Genz,High End,52,4360,3965,4271,5007,SalesPerson4
+10,TV,Genz,Mid Cap,53,3787,3356,3642,4297,SalesPerson5
+10,TV,Genz,Low End,54,2669,2382,2551,2990,SalesPerson6
+10,Web,Genz,High End,55,7704,6601,6977,8429,SalesPerson7
+10,Web,Genz,Mid Cap,56,4909,4561,4862,5738,SalesPerson8
+10,Web,Genz,Low End,57,3754,3015,3296,4059,SalesPerson9
+10,Radio,Genz,High End,58,5050,4643,4975,6058,SalesPerson10
+10,Radio,Genz,Mid Cap,59,3542,3210,3464,4192,SalesPerson11
+10,Radio,Genz,Low End,60,2048,1683,1843,2278,SalesPerson12
+14,Ad,Senior,High End,61,7830,7135,7524,9018,SalesPerson1
+13,Ad,Senior,Mid Cap,62,5049,4484,4841,5906,SalesPerson2
+13,Ad,Senior,Low End,63,3293,2713,2902,3361,SalesPerson3
+13,TV,Senior,High End,64,4363,4005,4341,5207,SalesPerson4
+13,TV,Senior,Mid Cap,65,5848,4767,5065,6021,SalesPerson5
+13,TV,Senior,Low End,66,3912,3528,3796,4551,SalesPerson6
+13,Web,Senior,High End,67,6286,5728,6152,7403,SalesPerson7
+13,Web,Senior,Mid Cap,68,5940,5249,5581,6686,SalesPerson8
+13,Web,Senior,Low End,69,3960,2875,3134,4021,SalesPerson9
+13,Radio,Senior,High End,70,4146,3571,3840,4588,SalesPerson10
+13,Radio,Senior,Mid Cap,71,3911,3206,3450,4029,SalesPerson11
+13,Radio,Senior,Low End,72,3567,2944,3167,3831,SalesPerson12
+20,Ad,B2B,High End,1,7200,5910,6214,7504,SalesPerson1
+20,Ad,B2B,Mid Cap,2,7365,6579,6963,8403,SalesPerson2
+20,Ad,B2B,Low End,3,4892,4134,4402,5175,SalesPerson3
+20,TV,B2B,High End,4,6659,5910,6214,7504,SalesPerson4
+20,TV,B2B,Mid Cap,5,8000,6579,6963,8403,SalesPerson5
+20,TV,B2B,Low End,6,4856,4134,4402,5175,SalesPerson6
+20,Web,B2B,High End,7,6750,5910,6214,7504,SalesPerson7
+20,Web,B2B,Mid Cap,8,7689,6579,6963,8403,SalesPerson8
+20,Web,B2B,Low End,9,4890,4134,4402,5175,SalesPerson9
+20,Radio,B2B,High End,10,6490,5910,6214,7504,SalesPerson10
+20,Radio,B2B,Mid Cap,11,7689,6579,6963,8403,SalesPerson11
+20,Radio,B2B,Low End,12,4837,4134,4402,5175,SalesPerson12
+2,Ad,Teen,High End,13,4800,4067,4334,5070,SalesPerson1
+2,Ad,Teen,Mid Cap,14,2860,2379,2576,2973,SalesPerson2
+2,Ad,Teen,Low End,15,2101,1693,1854,2197,SalesPerson3
+2,TV,Teen,High End,16,4657,4067,4334,5070,SalesPerson4
+2,TV,Teen,Mid Cap,17,2865,2379,2576,2973,SalesPerson5
+2,TV,Teen,Low End,18,2100,1693,1854,2197,SalesPerson6
+2,Web,Teen,High End,19,4654,4067,4334,5070,SalesPerson7
+2,Web,Teen,Mid Cap,20,2911,2379,2576,2973,SalesPerson8
+2,Web,Teen,Low End,21,1956,1693,1854,2197,SalesPerson9
+2,Radio,Teen,High End,22,4758,4067,4334,5070,SalesPerson10
+2,Radio,Teen,Mid Cap,23,2856,2379,2576,2973,SalesPerson11
+2,Radio,Teen,Low End,24,1942,1693,1854,2197,SalesPerson12
+5,Ad,College Student,High End,25,6154,5295,5634,6768,SalesPerson1
+5,Ad,College Student,Mid Cap,26,4467,3698,3966,4771,SalesPerson2
+5,Ad,College Student,Low End,27,2880,2409,2610,3013,SalesPerson3
+5,TV,College Student,High End,28,6356,5295,5634,6768,SalesPerson4
+5,TV,College Student,Mid Cap,29,4450,3698,3966,4771,SalesPerson5
+5,TV,College Student,Low End,30,2704,2409,2610,3013,SalesPerson6
+5,Web,College Student,High End,31,6683,5295,5634,6768,SalesPerson7
+5,Web,College Student,Mid Cap,32,4598,3698,3966,4771,SalesPerson8
+5,Web,College Student,Low End,33,2892,2409,2610,3013,SalesPerson9
+5,Radio,College Student,High End,34,5998,5295,5634,6768,SalesPerson10
+5,Radio,College Student,Mid Cap,35,4507,3698,3966,4771,SalesPerson11
+5,Radio,College Student,Low End,36,2736,2409,2610,3013,SalesPerson12
+8,Ad,Millenial,High End,37,7518,7073,7494,9046,SalesPerson1
+8,Ad,Millenial,Mid Cap,38,7221,5735,6106,7298,SalesPerson2
+8,Ad,Millenial,Low End,39,4215,3296,3574,4300,SalesPerson3
+8,TV,Millenial,High End,40,8415,7073,7494,9046,SalesPerson4
+8,TV,Millenial,Mid Cap,41,6450,5735,6106,7298,SalesPerson5
+8,TV,Millenial,Low End,42,3629,3296,3574,4300,SalesPerson6
+8,Web,Millenial,High End,43,7625,7073,7494,9046,SalesPerson7
+8,Web,Millenial,Mid Cap,44,6568,5735,6106,7298,SalesPerson8
+8,Web,Millenial,Low End,45,3983,3296,3574,4300,SalesPerson9
+8,Radio,Millenial,High End,46,8539,7073,7494,9046,SalesPerson10
+8,Radio,Millenial,Mid Cap,47,7188,5735,6106,7298,SalesPerson11
+8,Radio,Millenial,Low End,48,4219,3296,3574,4300,SalesPerson12
+11,Ad,Genz,High End,49,6685,5725,5984,7504,SalesPerson1
+11,Ad,Genz,Mid Cap,50,2606,2117,2286,2843,SalesPerson2
+11,Ad,Genz,Low End,51,4923,4333,4570,5351,SalesPerson3
+11,TV,Genz,High End,52,4940,3965,4271,5007,SalesPerson4
+11,TV,Genz,Mid Cap,53,4238,3356,3642,4297,SalesPerson5
+11,TV,Genz,Low End,54,2605,2382,2551,2990,SalesPerson6
+11,Web,Genz,High End,55,7853,6601,6977,8429,SalesPerson7
+11,Web,Genz,Mid Cap,56,4903,4561,4862,5738,SalesPerson8
+11,Web,Genz,Low End,57,3936,3015,3296,4059,SalesPerson9
+11,Radio,Genz,High End,58,5644,4643,4975,6058,SalesPerson10
+11,Radio,Genz,Mid Cap,59,4161,3210,3464,4192,SalesPerson11
+11,Radio,Genz,Low End,60,1914,1683,1843,2278,SalesPerson12
+14,Ad,Senior,High End,61,8930,7135,7524,9018,SalesPerson1
+14,Ad,Senior,Mid Cap,62,5442,4484,4841,5906,SalesPerson2
+14,Ad,Senior,Low End,63,3000,2713,2902,3361,SalesPerson3
+14,TV,Senior,High End,64,4572,4005,4341,5207,SalesPerson4
+14,TV,Senior,Mid Cap,65,5530,4767,5065,6021,SalesPerson5
+14,TV,Senior,Low End,66,4366,3528,3796,4551,SalesPerson6
+14,Web,Senior,High End,67,7096,5728,6152,7403,SalesPerson7
+14,Web,Senior,Mid Cap,68,6300,5249,5581,6686,SalesPerson8
+14,Web,Senior,Low End,69,3460,2875,3134,4021,SalesPerson9
+14,Radio,Senior,High End,70,4448,3571,3840,4588,SalesPerson10
+14,Radio,Senior,Mid Cap,71,3937,3206,3450,4029,SalesPerson11
+14,Radio,Senior,Low End,72,3765,2944,3167,3831,SalesPerson12
+16,Ad,B2B,High End,1,7504,5910,6214,7504,SalesPerson1
+16,Ad,B2B,Mid Cap,2,7459,6579,6963,8403,SalesPerson2
+16,Ad,B2B,Low End,3,4900,4134,4402,5175,SalesPerson3
+16,TV,B2B,High End,4,6723,5910,6214,7504,SalesPerson4
+16,TV,B2B,Mid Cap,5,7345,6579,6963,8403,SalesPerson5
+16,TV,B2B,Low End,6,4932,4134,4402,5175,SalesPerson6
+16,Web,B2B,High End,7,6893,5910,6214,7504,SalesPerson7
+16,Web,B2B,Mid Cap,8,7803,6579,6963,8403,SalesPerson8
+16,Web,B2B,Low End,9,4956,4134,4402,5175,SalesPerson9
+16,Radio,B2B,High End,10,7211,5910,6214,7504,SalesPerson10
+16,Radio,B2B,Mid Cap,11,7803,6579,6963,8403,SalesPerson11
+16,Radio,B2B,Low End,12,4925,4134,4402,5175,SalesPerson12
+3,Ad,Teen,High End,13,4905,4067,4334,5070,SalesPerson1
+3,Ad,Teen,Mid Cap,14,2918,2379,2576,2973,SalesPerson2
+3,Ad,Teen,Low End,15,2134,1693,1854,2197,SalesPerson3
+3,TV,Teen,High End,16,4724,4067,4334,5070,SalesPerson4
+3,TV,Teen,Mid Cap,17,2912,2379,2576,2973,SalesPerson5
+3,TV,Teen,Low End,18,2135,1693,1854,2197,SalesPerson6
+3,Web,Teen,High End,19,4720,4067,4334,5070,SalesPerson7
+3,Web,Teen,Mid Cap,20,2640,2379,2576,2973,SalesPerson8
+3,Web,Teen,Low End,21,2005,1693,1854,2197,SalesPerson9
+3,Radio,Teen,High End,22,4823,4067,4334,5070,SalesPerson10
+3,Radio,Teen,Mid Cap,23,2902,2379,2576,2973,SalesPerson11
+3,Radio,Teen,Low End,24,2005,1693,1854,2197,SalesPerson12
+6,Ad,College Student,High End,25,6278,5295,5634,6768,SalesPerson1
+6,Ad,College Student,Mid Cap,26,4574,3698,3966,4771,SalesPerson2
+6,Ad,College Student,Low End,27,2940,2409,2610,3013,SalesPerson3
+6,TV,College Student,High End,28,6451,5295,5634,6768,SalesPerson4
+6,TV,College Student,Mid Cap,29,4550,3698,3966,4771,SalesPerson5
+6,TV,College Student,Low End,30,2610,2409,2610,3013,SalesPerson6
+6,Web,College Student,High End,31,5737,5295,5634,6768,SalesPerson7
+6,Web,College Student,Mid Cap,32,4219,3698,3966,4771,SalesPerson8
+6,Web,College Student,Low End,33,2705,2409,2610,3013,SalesPerson9
+6,Radio,College Student,High End,34,6126,5295,5634,6768,SalesPerson10
+6,Radio,College Student,Mid Cap,35,4337,3698,3966,4771,SalesPerson11
+6,Radio,College Student,Low End,36,2993,2409,2610,3013,SalesPerson12
+9,Ad,Millenial,High End,37,8250,7073,7494,9046,SalesPerson1
+9,Ad,Millenial,Mid Cap,38,6147,5735,6106,7298,SalesPerson2
+9,Ad,Millenial,Low End,39,4152,3296,3574,4300,SalesPerson3
+9,TV,Millenial,High End,40,8479,7073,7494,9046,SalesPerson4
+9,TV,Millenial,Mid Cap,41,7172,5735,6106,7298,SalesPerson5
+9,TV,Millenial,Low End,42,3897,3296,3574,4300,SalesPerson6
+9,Web,Millenial,High End,43,8670,7073,7494,9046,SalesPerson7
+9,Web,Millenial,Mid Cap,44,6540,5735,6106,7298,SalesPerson8
+9,Web,Millenial,Low End,45,4182,3296,3574,4300,SalesPerson9
+9,Radio,Millenial,High End,46,7549,7073,7494,9046,SalesPerson10
+9,Radio,Millenial,Mid Cap,47,6978,5735,6106,7298,SalesPerson11
+9,Radio,Millenial,Low End,48,4039,3296,3574,4300,SalesPerson12
+12,Ad,Genz,High End,49,6814,5725,5984,7504,SalesPerson1
+12,Ad,Genz,Mid Cap,50,2836,2117,2286,2843,SalesPerson2
+12,Ad,Genz,Low End,51,5094,4333,4570,5351,SalesPerson3
+12,TV,Genz,High End,52,4441,3965,4271,5007,SalesPerson4
+12,TV,Genz,Mid Cap,53,4173,3356,3642,4297,SalesPerson5
+12,TV,Genz,Low End,54,2657,2382,2551,2990,SalesPerson6
+12,Web,Genz,High End,55,8302,6601,6977,8429,SalesPerson7
+12,Web,Genz,Mid Cap,56,5215,4561,4862,5738,SalesPerson8
+12,Web,Genz,Low End,57,3861,3015,3296,4059,SalesPerson9
+12,Radio,Genz,High End,58,4989,4643,4975,6058,SalesPerson10
+12,Radio,Genz,Mid Cap,59,4172,3210,3464,4192,SalesPerson11
+12,Radio,Genz,Low End,60,2145,1683,1843,2278,SalesPerson12
+14,Ad,Senior,High End,61,8493,7135,7524,9018,SalesPerson1
+15,Ad,Senior,Mid Cap,62,5073,4484,4841,5906,SalesPerson2
+15,Ad,Senior,Low End,63,3237,2713,2902,3361,SalesPerson3
+15,TV,Senior,High End,64,5204,4005,4341,5207,SalesPerson4
+15,TV,Senior,Mid Cap,65,5246,4767,5065,6021,SalesPerson5
+15,TV,Senior,Low End,66,3957,3528,3796,4551,SalesPerson6
+15,Web,Senior,High End,67,6645,5728,6152,7403,SalesPerson7
+15,Web,Senior,Mid Cap,68,5820,5249,5581,6686,SalesPerson8
+15,Web,Senior,Low End,69,3159,2875,3134,4021,SalesPerson9
+15,Radio,Senior,High End,70,4186,3571,3840,4588,SalesPerson10
+15,Radio,Senior,Mid Cap,71,3522,3206,3450,4029,SalesPerson11
+15,Radio,Senior,Low End,72,3234,2944,3167,3831,SalesPerson12
+17,Ad,B2B,High End,1,7123,5910,6214,7504,SalesPerson1
+17,Ad,B2B,Mid Cap,2,7543,6579,6963,8403,SalesPerson2
+17,Ad,B2B,Low End,3,4844,4134,4402,5175,SalesPerson3
+17,TV,B2B,High End,4,6839,5910,6214,7504,SalesPerson4
+17,TV,B2B,Mid Cap,5,7523,6579,6963,8403,SalesPerson5
+17,TV,B2B,Low End,6,5010,4134,4402,5175,SalesPerson6
+17,Web,B2B,High End,7,7021,5910,6214,7504,SalesPerson7
+17,Web,B2B,Mid Cap,8,7954,6579,6963,8403,SalesPerson8
+17,Web,B2B,Low End,9,5023,4134,4402,5175,SalesPerson9
+17,Radio,B2B,High End,10,6888,5910,6214,7504,SalesPerson10
+17,Radio,B2B,Mid Cap,11,7981,6579,6963,8403,SalesPerson11
+17,Radio,B2B,Low End,12,5012,4134,4402,5175,SalesPerson12
+1,Ad,Teen,High End,13,5010,4067,4334,5070,SalesPerson1
+1,Ad,Teen,Mid Cap,14,2973,2379,2576,2973,SalesPerson2
+1,Ad,Teen,Low End,15,2167,1693,1854,2197,SalesPerson3
+1,TV,Teen,High End,16,4791,4067,4334,5070,SalesPerson4
+1,TV,Teen,Mid Cap,17,2967,2379,2576,2973,SalesPerson5
+1,TV,Teen,Low End,18,2150,1693,1854,2197,SalesPerson6
+1,Web,Teen,High End,19,4786,4067,4334,5070,SalesPerson7
+1,Web,Teen,Mid Cap,20,2688,2379,2576,2973,SalesPerson8
+1,Web,Teen,Low End,21,2088,1693,1854,2197,SalesPerson9
+1,Radio,Teen,High End,22,4945,4067,4334,5070,SalesPerson10
+1,Radio,Teen,Mid Cap,23,2950,2379,2576,2973,SalesPerson11
+1,Radio,Teen,Low End,24,2123,1693,1854,2197,SalesPerson12
+4,Ad,College Student,High End,25,6402,5295,5634,6768,SalesPerson1
+4,Ad,College Student,Mid Cap,26,4632,3698,3966,4771,SalesPerson2
+4,Ad,College Student,Low End,27,2970,2409,2610,3013,SalesPerson3
+4,TV,College Student,High End,28,6573,5295,5634,6768,SalesPerson4
+4,TV,College Student,Mid Cap,29,4650,3698,3966,4771,SalesPerson5
+4,TV,College Student,Low End,30,2775,2409,2610,3013,SalesPerson6
+4,Web,College Student,High End,31,5986,5295,5634,6768,SalesPerson7
+4,Web,College Student,Mid Cap,32,4120,3698,3966,4771,SalesPerson8
+4,Web,College Student,Low End,33,2935,2409,2610,3013,SalesPerson9
+4,Radio,College Student,High End,34,5825,5295,5634,6768,SalesPerson10
+4,Radio,College Student,Mid Cap,35,4673,3698,3966,4771,SalesPerson11
+4,Radio,College Student,Low End,36,2677,2409,2610,3013,SalesPerson12
+7,Ad,Millenial,High End,37,8604,7073,7494,9046,SalesPerson1
+7,Ad,Millenial,Mid Cap,38,7255,5735,6106,7298,SalesPerson2
+7,Ad,Millenial,Low End,39,3722,3296,3574,4300,SalesPerson3
+7,TV,Millenial,High End,40,8503,7073,7494,9046,SalesPerson4
+7,TV,Millenial,Mid Cap,41,6812,5735,6106,7298,SalesPerson5
+7,TV,Millenial,Low End,42,4047,3296,3574,4300,SalesPerson6
+7,Web,Millenial,High End,43,7695,7073,7494,9046,SalesPerson7
+7,Web,Millenial,Mid Cap,44,6959,5735,6106,7298,SalesPerson8
+7,Web,Millenial,Low End,45,3967,3296,3574,4300,SalesPerson9
+7,Radio,Millenial,High End,46,7623,7073,7494,9046,SalesPerson10
+7,Radio,Millenial,Mid Cap,47,6256,5735,6106,7298,SalesPerson11
+7,Radio,Millenial,Low End,48,3853,3296,3574,4300,SalesPerson12
+10,Ad,Genz,High End,49,6753,5725,5984,7504,SalesPerson1
+10,Ad,Genz,Mid Cap,50,2746,2117,2286,2843,SalesPerson2
+10,Ad,Genz,Low End,51,4720,4333,4570,5351,SalesPerson3
+10,TV,Genz,High End,52,4352,3965,4271,5007,SalesPerson4
+10,TV,Genz,Mid Cap,53,4249,3356,3642,4297,SalesPerson5
+10,TV,Genz,Low End,54,2831,2382,2551,2990,SalesPerson6
+10,Web,Genz,High End,55,7273,6601,6977,8429,SalesPerson7
+10,Web,Genz,Mid Cap,56,5282,4561,4862,5738,SalesPerson8
+10,Web,Genz,Low End,57,4054,3015,3296,4059,SalesPerson9
+10,Radio,Genz,High End,58,5976,4643,4975,6058,SalesPerson10
+10,Radio,Genz,Mid Cap,59,3904,3210,3464,4192,SalesPerson11
+10,Radio,Genz,Low End,60,1880,1683,1843,2278,SalesPerson12
+15,Ad,Senior,High End,61,8161,7135,7524,9018,SalesPerson1
+13,Ad,Senior,Mid Cap,62,5621,4484,4841,5906,SalesPerson2
+13,Ad,Senior,Low End,63,2952,2713,2902,3361,SalesPerson3
+13,TV,Senior,High End,64,5020,4005,4341,5207,SalesPerson4
+13,TV,Senior,Mid Cap,65,5091,4767,5065,6021,SalesPerson5
+13,TV,Senior,Low End,66,4002,3528,3796,4551,SalesPerson6
+13,Web,Senior,High End,67,6435,5728,6152,7403,SalesPerson7
+13,Web,Senior,Mid Cap,68,5970,5249,5581,6686,SalesPerson8
+13,Web,Senior,Low End,69,3466,2875,3134,4021,SalesPerson9
+13,Radio,Senior,High End,70,4170,3571,3840,4588,SalesPerson10
+13,Radio,Senior,Mid Cap,71,3845,3206,3450,4029,SalesPerson11
+13,Radio,Senior,Low End,72,3792,2944,3167,3831,SalesPerson12
+18,Ad,B2B,High End,1,6599,5910,6214,7504,SalesPerson1
+18,Ad,B2B,Mid Cap,2,7625,6579,6963,8403,SalesPerson2
+18,Ad,B2B,Low End,3,4590,4134,4402,5175,SalesPerson3
+18,TV,B2B,High End,4,6904,5910,6214,7504,SalesPerson4
+18,TV,B2B,Mid Cap,5,6999,6579,6963,8403,SalesPerson5
+18,TV,B2B,Low End,6,5102,4134,4402,5175,SalesPerson6
+18,Web,B2B,High End,7,7145,5910,6214,7504,SalesPerson7
+18,Web,B2B,Mid Cap,8,8102,6579,6963,8403,SalesPerson8
+18,Web,B2B,Low End,9,5110,4134,4402,5175,SalesPerson9
+18,Radio,B2B,High End,10,7301,5910,6214,7504,SalesPerson10
+18,Radio,B2B,Mid Cap,11,8112,6579,6963,8403,SalesPerson11
+18,Radio,B2B,Low End,12,5100,4134,4402,5175,SalesPerson12
+2,Ad,Teen,High End,13,5115,4067,4334,5070,SalesPerson1
+2,Ad,Teen,Mid Cap,14,2650,2379,2576,2973,SalesPerson2
+2,Ad,Teen,Low End,15,2180,1693,1854,2197,SalesPerson3
+2,TV,Teen,High End,16,4858,4067,4334,5070,SalesPerson4
+2,TV,Teen,Mid Cap,17,2634,2379,2576,2973,SalesPerson5
+2,TV,Teen,Low End,18,2175,1693,1854,2197,SalesPerson6
+2,Web,Teen,High End,19,4852,4067,4334,5070,SalesPerson7
+2,Web,Teen,Mid Cap,20,2762,2379,2576,2973,SalesPerson8
+2,Web,Teen,Low End,21,2156,1693,1854,2197,SalesPerson9
+2,Radio,Teen,High End,22,4991,4067,4334,5070,SalesPerson10
+2,Radio,Teen,Mid Cap,23,2623,2379,2576,2973,SalesPerson11
+2,Radio,Teen,Low End,24,1988,1693,1854,2197,SalesPerson12
+5,Ad,College Student,High End,25,6537,5295,5634,6768,SalesPerson1
+5,Ad,College Student,Mid Cap,26,4701,3698,3966,4771,SalesPerson2
+5,Ad,College Student,Low End,27,2990,2409,2610,3013,SalesPerson3
+5,TV,College Student,High End,28,6689,5295,5634,6768,SalesPerson4
+5,TV,College Student,Mid Cap,29,4750,3698,3966,4771,SalesPerson5
+5,TV,College Student,Low End,30,2960,2409,2610,3013,SalesPerson6
+5,Web,College Student,High End,31,5878,5295,5634,6768,SalesPerson7
+5,Web,College Student,Mid Cap,32,4399,3698,3966,4771,SalesPerson8
+5,Web,College Student,Low End,33,2819,2409,2610,3013,SalesPerson9
+5,Radio,College Student,High End,34,5653,5295,5634,6768,SalesPerson10
+5,Radio,College Student,Mid Cap,35,4287,3698,3966,4771,SalesPerson11
+5,Radio,College Student,Low End,36,2896,2409,2610,3013,SalesPerson12
+8,Ad,Millenial,High End,37,8984,7073,7494,9046,SalesPerson1
+8,Ad,Millenial,Mid Cap,38,6454,5735,6106,7298,SalesPerson2
+8,Ad,Millenial,Low End,39,4038,3296,3574,4300,SalesPerson3
+8,TV,Millenial,High End,40,8645,7073,7494,9046,SalesPerson4
+8,TV,Millenial,Mid Cap,41,6497,5735,6106,7298,SalesPerson5
+8,TV,Millenial,Low End,42,3632,3296,3574,4300,SalesPerson6
+8,Web,Millenial,High End,43,7941,7073,7494,9046,SalesPerson7
+8,Web,Millenial,Mid Cap,44,6418,5735,6106,7298,SalesPerson8
+8,Web,Millenial,Low End,45,3857,3296,3574,4300,SalesPerson9
+8,Radio,Millenial,High End,46,7932,7073,7494,9046,SalesPerson10
+8,Radio,Millenial,Mid Cap,47,6383,5735,6106,7298,SalesPerson11
+8,Radio,Millenial,Low End,48,3747,3296,3574,4300,SalesPerson12
+11,Ad,Genz,High End,49,6532,5725,5984,7504,SalesPerson1
+11,Ad,Genz,Mid Cap,50,2778,2117,2286,2843,SalesPerson2
+11,Ad,Genz,Low End,51,4932,4333,4570,5351,SalesPerson3
+11,TV,Genz,High End,52,4449,3965,4271,5007,SalesPerson4
+11,TV,Genz,Mid Cap,53,3926,3356,3642,4297,SalesPerson5
+11,TV,Genz,Low End,54,2716,2382,2551,2990,SalesPerson6
+11,Web,Genz,High End,55,8209,6601,6977,8429,SalesPerson7
+11,Web,Genz,Mid Cap,56,5071,4561,4862,5738,SalesPerson8
+11,Web,Genz,Low End,57,3818,3015,3296,4059,SalesPerson9
+11,Radio,Genz,High End,58,5294,4643,4975,6058,SalesPerson10
+11,Radio,Genz,Mid Cap,59,3615,3210,3464,4192,SalesPerson11
+11,Radio,Genz,Low End,60,1867,1683,1843,2278,SalesPerson12
+15,Ad,Senior,High End,61,8330,7135,7524,9018,SalesPerson1
+14,Ad,Senior,Mid Cap,62,5018,4484,4841,5906,SalesPerson2
+14,Ad,Senior,Low End,63,3177,2713,2902,3361,SalesPerson3
+14,TV,Senior,High End,64,4808,4005,4341,5207,SalesPerson4
+14,TV,Senior,Mid Cap,65,5167,4767,5065,6021,SalesPerson5
+14,TV,Senior,Low End,66,3951,3528,3796,4551,SalesPerson6
+14,Web,Senior,High End,67,6637,5728,6152,7403,SalesPerson7
+14,Web,Senior,Mid Cap,68,6233,5249,5581,6686,SalesPerson8
+14,Web,Senior,Low End,69,3415,2875,3134,4021,SalesPerson9
+14,Radio,Senior,High End,70,4337,3571,3840,4588,SalesPerson10
+14,Radio,Senior,Mid Cap,71,3778,3206,3450,4029,SalesPerson11
+14,Radio,Senior,Low End,72,3682,2944,3167,3831,SalesPerson12
+19,Ad,B2B,High End,1,7436,5910,6214,7504,SalesPerson1
+19,Ad,B2B,Mid Cap,2,8403,6579,6963,8403,SalesPerson2
+19,Ad,B2B,Low End,3,5000,4134,4402,5175,SalesPerson3
+19,TV,B2B,High End,4,7432,5910,6214,7504,SalesPerson4
+19,TV,B2B,Mid Cap,5,7435,6579,6963,8403,SalesPerson5
+19,TV,B2B,Low End,6,5150,4134,4402,5175,SalesPerson6
+19,Web,B2B,High End,7,7263,5910,6214,7504,SalesPerson7
+19,Web,B2B,Mid Cap,8,8246,6579,6963,8403,SalesPerson8
+19,Web,B2B,Low End,9,5234,4134,4402,5175,SalesPerson9
+19,Radio,B2B,High End,10,6945,5910,6214,7504,SalesPerson10
+19,Radio,B2B,Mid Cap,11,8250,6579,6963,8403,SalesPerson11
+19,Radio,B2B,Low End,12,5187,4134,4402,5175,SalesPerson12
+3,Ad,Teen,High End,13,5220,4067,4334,5070,SalesPerson1
+3,Ad,Teen,Mid Cap,14,2750,2379,2576,2973,SalesPerson2
+3,Ad,Teen,Low End,15,1922,1693,1854,2197,SalesPerson3
+3,TV,Teen,High End,16,4925,4067,4334,5070,SalesPerson4
+3,TV,Teen,Mid Cap,17,2701,2379,2576,2973,SalesPerson5
+3,TV,Teen,Low End,18,2190,1693,1854,2197,SalesPerson6
+3,Web,Teen,High End,19,4918,4067,4334,5070,SalesPerson7
+3,Web,Teen,Mid Cap,20,2834,2379,2576,2973,SalesPerson8
+3,Web,Teen,Low End,21,1889,1693,1854,2197,SalesPerson9
+3,Radio,Teen,High End,22,5050,4067,4334,5070,SalesPerson10
+3,Radio,Teen,Mid Cap,23,2698,2379,2576,2973,SalesPerson11
+3,Radio,Teen,Low End,24,2066,1693,1854,2197,SalesPerson12
+6,Ad,College Student,High End,25,6650,5295,5634,6768,SalesPerson1
+6,Ad,College Student,Mid Cap,26,4755,3698,3966,4771,SalesPerson2
+6,Ad,College Student,Low End,27,3000,2409,2610,3013,SalesPerson3
+6,TV,College Student,High End,28,5712,5295,5634,6768,SalesPerson4
+6,TV,College Student,Mid Cap,29,4850,3698,3966,4771,SalesPerson5
+6,TV,College Student,Low End,30,2613,2409,2610,3013,SalesPerson6
+6,Web,College Student,High End,31,5953,5295,5634,6768,SalesPerson7
+6,Web,College Student,Mid Cap,32,4375,3698,3966,4771,SalesPerson8
+6,Web,College Student,Low End,33,2955,2409,2610,3013,SalesPerson9
+6,Radio,College Student,High End,34,6555,5295,5634,6768,SalesPerson10
+6,Radio,College Student,Mid Cap,35,4369,3698,3966,4771,SalesPerson11
+6,Radio,College Student,Low End,36,2718,2409,2610,3013,SalesPerson12
+9,Ad,Millenial,High End,37,8523,7073,7494,9046,SalesPerson1
+9,Ad,Millenial,Mid Cap,38,7183,5735,6106,7298,SalesPerson2
+9,Ad,Millenial,Low End,39,3692,3296,3574,4300,SalesPerson3
+9,TV,Millenial,High End,40,8136,7073,7494,9046,SalesPerson4
+9,TV,Millenial,Mid Cap,41,6135,5735,6106,7298,SalesPerson5
+9,TV,Millenial,Low End,42,3931,3296,3574,4300,SalesPerson6
+9,Web,Millenial,High End,43,7797,7073,7494,9046,SalesPerson7
+9,Web,Millenial,Mid Cap,44,6376,5735,6106,7298,SalesPerson8
+9,Web,Millenial,Low End,45,3588,3296,3574,4300,SalesPerson9
+9,Radio,Millenial,High End,46,7836,7073,7494,9046,SalesPerson10
+9,Radio,Millenial,Mid Cap,47,6604,5735,6106,7298,SalesPerson11
+9,Radio,Millenial,Low End,48,3687,3296,3574,4300,SalesPerson12
+12,Ad,Genz,High End,49,7057,5725,5984,7504,SalesPerson1
+12,Ad,Genz,Mid Cap,50,2548,2117,2286,2843,SalesPerson2
+12,Ad,Genz,Low End,51,5311,4333,4570,5351,SalesPerson3
+12,TV,Genz,High End,52,4492,3965,4271,5007,SalesPerson4
+12,TV,Genz,Mid Cap,53,4039,3356,3642,4297,SalesPerson5
+12,TV,Genz,Low End,54,2968,2382,2551,2990,SalesPerson6
+12,Web,Genz,High End,55,8233,6601,6977,8429,SalesPerson7
+12,Web,Genz,Mid Cap,56,5523,4561,4862,5738,SalesPerson8
+12,Web,Genz,Low End,57,3803,3015,3296,4059,SalesPerson9
+12,Radio,Genz,High End,58,5870,4643,4975,6058,SalesPerson10
+12,Radio,Genz,Mid Cap,59,3976,3210,3464,4192,SalesPerson11
+12,Radio,Genz,Low End,60,2128,1683,1843,2278,SalesPerson12
+15,Ad,Senior,High End,61,7627,7135,7524,9018,SalesPerson1
+15,Ad,Senior,Mid Cap,62,4974,4484,4841,5906,SalesPerson2
+15,Ad,Senior,Low End,63,2950,2713,2902,3361,SalesPerson3
+15,TV,Senior,High End,64,5111,4005,4341,5207,SalesPerson4
+15,TV,Senior,Mid Cap,65,5419,4767,5065,6021,SalesPerson5
+15,TV,Senior,Low End,66,3826,3528,3796,4551,SalesPerson6
+15,Web,Senior,High End,67,6681,5728,6152,7403,SalesPerson7
+15,Web,Senior,Mid Cap,68,6098,5249,5581,6686,SalesPerson8
+15,Web,Senior,Low End,69,3592,2875,3134,4021,SalesPerson9
+15,Radio,Senior,High End,70,4081,3571,3840,4588,SalesPerson10
+15,Radio,Senior,Mid Cap,71,3661,3206,3450,4029,SalesPerson11
+15,Radio,Senior,Low End,72,3661,2944,3167,3831,SalesPerson12
+20,Ad,B2B,High End,1,6237,5910,6214,7504,SalesPerson1
+20,Ad,B2B,Mid Cap,2,8222,6579,6963,8403,SalesPerson2
+20,Ad,B2B,Low End,3,5175,4134,4402,5175,SalesPerson3
+20,TV,B2B,High End,4,7504,5910,6214,7504,SalesPerson4
+20,TV,B2B,Mid Cap,5,6963,6579,6963,8403,SalesPerson5
+20,TV,B2B,Low End,6,5170,4134,4402,5175,SalesPerson6
+20,Web,B2B,High End,7,7398,5910,6214,7504,SalesPerson7
+20,Web,B2B,Mid Cap,8,8389,6579,6963,8403,SalesPerson8
+20,Web,B2B,Low End,9,5345,4134,4402,5175,SalesPerson9
+20,Radio,B2B,High End,10,7367,5910,6214,7504,SalesPerson10
+20,Radio,B2B,Mid Cap,11,8376,6579,6963,8403,SalesPerson11
+20,Radio,B2B,Low End,12,5175,4134,4402,5175,SalesPerson12
+1,Ad,Teen,High End,13,5325,4067,4334,5070,SalesPerson1
+1,Ad,Teen,Mid Cap,14,2900,2379,2576,2973,SalesPerson2
+1,Ad,Teen,Low End,15,1999,1693,1854,2197,SalesPerson3
+1,TV,Teen,High End,16,4992,4067,4334,5070,SalesPerson4
+1,TV,Teen,Mid Cap,17,2878,2379,2576,2973,SalesPerson5
+1,TV,Teen,Low End,18,2180,1693,1854,2197,SalesPerson6
+1,Web,Teen,High End,19,4984,4067,4334,5070,SalesPerson7
+1,Web,Teen,Mid Cap,20,2950,2379,2576,2973,SalesPerson8
+1,Web,Teen,Low End,21,1934,1693,1854,2197,SalesPerson9
+1,Radio,Teen,High End,22,5070,4067,4334,5070,SalesPerson10
+1,Radio,Teen,Mid Cap,23,2874,2379,2576,2973,SalesPerson11
+1,Radio,Teen,Low End,24,2154,1693,1854,2197,SalesPerson12
+4,Ad,College Student,High End,25,6723,5295,5634,6768,SalesPerson1
+4,Ad,College Student,Mid Cap,26,4771,3698,3966,4771,SalesPerson2
+4,Ad,College Student,Low End,27,3010,2409,2610,3013,SalesPerson3
+4,TV,College Student,High End,28,6024,5295,5634,6768,SalesPerson4
+4,TV,College Student,Mid Cap,29,4950,3698,3966,4771,SalesPerson5
+4,TV,College Student,Low End,30,2632,2409,2610,3013,SalesPerson6
+4,Web,College Student,High End,31,6676,5295,5634,6768,SalesPerson7
+4,Web,College Student,Mid Cap,32,4642,3698,3966,4771,SalesPerson8
+4,Web,College Student,Low End,33,2933,2409,2610,3013,SalesPerson9
+4,Radio,College Student,High End,34,6224,5295,5634,6768,SalesPerson10
+4,Radio,College Student,Mid Cap,35,4464,3698,3966,4771,SalesPerson11
+4,Radio,College Student,Low End,36,3012,2409,2610,3013,SalesPerson12
+7,Ad,Millenial,High End,37,8330,7073,7494,9046,SalesPerson1
+7,Ad,Millenial,Mid Cap,38,6301,5735,6106,7298,SalesPerson2
+7,Ad,Millenial,Low End,39,3944,3296,3574,4300,SalesPerson3
+7,TV,Millenial,High End,40,7651,7073,7494,9046,SalesPerson4
+7,TV,Millenial,Mid Cap,41,6366,5735,6106,7298,SalesPerson5
+7,TV,Millenial,Low End,42,3990,3296,3574,4300,SalesPerson6
+7,Web,Millenial,High End,43,8580,7073,7494,9046,SalesPerson7
+7,Web,Millenial,Mid Cap,44,6387,5735,6106,7298,SalesPerson8
+7,Web,Millenial,Low End,45,3914,3296,3574,4300,SalesPerson9
+7,Radio,Millenial,High End,46,8094,7073,7494,9046,SalesPerson10
+7,Radio,Millenial,Mid Cap,47,7164,5735,6106,7298,SalesPerson11
+7,Radio,Millenial,Low End,48,3645,3296,3574,4300,SalesPerson12
+10,Ad,Genz,High End,49,6075,5725,5984,7504,SalesPerson1
+10,Ad,Genz,Mid Cap,50,2446,2117,2286,2843,SalesPerson2
+10,Ad,Genz,Low End,51,4619,4333,4570,5351,SalesPerson3
+10,TV,Genz,High End,52,4309,3965,4271,5007,SalesPerson4
+10,TV,Genz,Mid Cap,53,3697,3356,3642,4297,SalesPerson5
+10,TV,Genz,Low End,54,2843,2382,2551,2990,SalesPerson6
+10,Web,Genz,High End,55,8171,6601,6977,8429,SalesPerson7
+10,Web,Genz,Mid Cap,56,5193,4561,4862,5738,SalesPerson8
+10,Web,Genz,Low End,57,3670,3015,3296,4059,SalesPerson9
+10,Radio,Genz,High End,58,5924,4643,4975,6058,SalesPerson10
+10,Radio,Genz,Mid Cap,59,3831,3210,3464,4192,SalesPerson11
+10,Radio,Genz,Low End,60,1935,1683,1843,2278,SalesPerson12
+16,Ad,Senior,High End,61,8063,7135,7524,9018,SalesPerson1
+13,Ad,Senior,Mid Cap,62,5727,4484,4841,5906,SalesPerson2
+13,Ad,Senior,Low End,63,3217,2713,2902,3361,SalesPerson3
+13,TV,Senior,High End,64,5145,4005,4341,5207,SalesPerson4
+13,TV,Senior,Mid Cap,65,5731,4767,5065,6021,SalesPerson5
+13,TV,Senior,Low End,66,4315,3528,3796,4551,SalesPerson6
+13,Web,Senior,High End,67,6552,5728,6152,7403,SalesPerson7
+13,Web,Senior,Mid Cap,68,6560,5249,5581,6686,SalesPerson8
+13,Web,Senior,Low End,69,3959,2875,3134,4021,SalesPerson9
+13,Radio,Senior,High End,70,4448,3571,3840,4588,SalesPerson10
+13,Radio,Senior,Mid Cap,71,3536,3206,3450,4029,SalesPerson11
+13,Radio,Senior,Low End,72,3339,2944,3167,3831,SalesPerson12
+16,Ad,B2B,High End,1,5910,5910,6214,7504,SalesPerson1
+16,Ad,B2B,Mid Cap,2,6579,6579,6963,8403,SalesPerson2
+16,Ad,B2B,Low End,3,4134,4134,4402,5175,SalesPerson3
+16,TV,B2B,High End,4,5910,5910,6214,7504,SalesPerson4
+16,TV,B2B,Mid Cap,5,6579,6579,6963,8403,SalesPerson5
+16,TV,B2B,Low End,6,4134,4134,4402,5175,SalesPerson6
+16,Web,B2B,High End,7,6025,5910,6214,7504,SalesPerson7
+16,Web,B2B,Mid Cap,8,6612,6579,6963,8403,SalesPerson8
+16,Web,B2B,Low End,9,4150,4134,4402,5175,SalesPerson9
+16,Radio,B2B,High End,10,6150,5910,6214,7504,SalesPerson10
+16,Radio,B2B,Mid Cap,11,6632,6579,6963,8403,SalesPerson11
+17,Radio,B2B,Low End,12,4200,4134,4402,5175,SalesPerson12
+2,Ad,Teen,High End,13,4145,4067,4334,5070,SalesPerson1
+2,Ad,Teen,Mid Cap,14,2400,2379,2576,2973,SalesPerson2
+2,Ad,Teen,Low End,15,1710,1693,1854,2197,SalesPerson3
+2,TV,Teen,High End,16,4123,4067,4334,5070,SalesPerson4
+2,TV,Teen,Mid Cap,17,2450,2379,2576,2973,SalesPerson5
+2,TV,Teen,Low End,18,1750,1693,1854,2197,SalesPerson6
+2,Web,Teen,High End,19,4123,4067,4334,5070,SalesPerson7
+2,Web,Teen,Mid Cap,20,2465,2379,2576,2973,SalesPerson8
+2,Web,Teen,Low End,21,1750,1693,1854,2197,SalesPerson9
+2,Radio,Teen,High End,22,4099,4067,4334,5070,SalesPerson10
+2,Radio,Teen,Mid Cap,23,2400,2379,2576,2973,SalesPerson11
+2,Radio,Teen,Low End,24,1725,1693,1854,2197,SalesPerson12
+5,Ad,College Student,High End,25,5310,5295,5634,6768,SalesPerson1
+5,Ad,College Student,Mid Cap,26,3754,3698,3966,4771,SalesPerson2
+5,Ad,College Student,Low End,27,2500,2409,2610,3013,SalesPerson3
+5,TV,College Student,High End,28,5412,5295,5634,6768,SalesPerson4
+5,TV,College Student,Mid Cap,29,3750,3698,3966,4771,SalesPerson5
+5,TV,College Student,Low End,30,2584,2409,2610,3013,SalesPerson6
+5,Web,College Student,High End,31,5581,5295,5634,6768,SalesPerson7
+5,Web,College Student,Mid Cap,32,3952,3698,3966,4771,SalesPerson8
+5,Web,College Student,Low End,33,2488,2409,2610,3013,SalesPerson9
+5,Radio,College Student,High End,34,5390,5295,5634,6768,SalesPerson10
+5,Radio,College Student,Mid Cap,35,3837,3698,3966,4771,SalesPerson11
+5,Radio,College Student,Low End,36,2502,2409,2610,3013,SalesPerson12
+8,Ad,Millenial,High End,37,7297,7073,7494,9046,SalesPerson1
+8,Ad,Millenial,Mid Cap,38,6053,5735,6106,7298,SalesPerson2
+8,Ad,Millenial,Low End,39,3368,3296,3574,4300,SalesPerson3
+8,TV,Millenial,High End,40,7467,7073,7494,9046,SalesPerson4
+8,TV,Millenial,Mid Cap,41,6092,5735,6106,7298,SalesPerson5
+8,TV,Millenial,Low End,42,3544,3296,3574,4300,SalesPerson6
+8,Web,Millenial,High End,43,7442,7073,7494,9046,SalesPerson7
+8,Web,Millenial,Mid Cap,44,5902,5735,6106,7298,SalesPerson8
+8,Web,Millenial,Low End,45,3490,3296,3574,4300,SalesPerson9
+8,Radio,Millenial,High End,46,7321,7073,7494,9046,SalesPerson10
+8,Radio,Millenial,Mid Cap,47,5954,5735,6106,7298,SalesPerson11
+8,Radio,Millenial,Low End,48,3432,3296,3574,4300,SalesPerson12
+11,Ad,Genz,High End,49,5863,5725,5984,7504,SalesPerson1
+11,Ad,Genz,Mid Cap,50,2211,2117,2286,2843,SalesPerson2
+11,Ad,Genz,Low End,51,4481,4333,4570,5351,SalesPerson3
+11,TV,Genz,High End,52,4101,3965,4271,5007,SalesPerson4
+11,TV,Genz,Mid Cap,53,3603,3356,3642,4297,SalesPerson5
+11,TV,Genz,Low End,54,2499,2382,2551,2990,SalesPerson6
+11,Web,Genz,High End,55,6926,6601,6977,8429,SalesPerson7
+11,Web,Genz,Mid Cap,56,4861,4561,4862,5738,SalesPerson8
+11,Web,Genz,Low End,57,3035,3015,3296,4059,SalesPerson9
+11,Radio,Genz,High End,58,4784,4643,4975,6058,SalesPerson10
+11,Radio,Genz,Mid Cap,59,3415,3210,3464,4192,SalesPerson11
+11,Radio,Genz,Low End,60,1814,1683,1843,2278,SalesPerson12
+16,Ad,Senior,High End,61,7280,7135,7524,9018,SalesPerson1
+14,Ad,Senior,Mid Cap,62,4802,4484,4841,5906,SalesPerson2
+14,Ad,Senior,Low End,63,2875,2713,2902,3361,SalesPerson3
+14,TV,Senior,High End,64,4077,4005,4341,5207,SalesPerson4
+14,TV,Senior,Mid Cap,65,5023,4767,5065,6021,SalesPerson5
+14,TV,Senior,Low End,66,3662,3528,3796,4551,SalesPerson6
+14,Web,Senior,High End,67,5776,5728,6152,7403,SalesPerson7
+14,Web,Senior,Mid Cap,68,5535,5249,5581,6686,SalesPerson8
+14,Web,Senior,Low End,69,2955,2875,3134,4021,SalesPerson9
+14,Radio,Senior,High End,70,3591,3571,3840,4588,SalesPerson10
+14,Radio,Senior,Mid Cap,71,3329,3206,3450,4029,SalesPerson11
+14,Radio,Senior,Low End,72,2974,2944,3167,3831,SalesPerson12
+17,Ad,B2B,High End,1,6000,5910,6214,7504,SalesPerson1
+17,Ad,B2B,Mid Cap,2,6734,6579,6963,8403,SalesPerson2
+17,Ad,B2B,Low End,3,4288,4134,4402,5175,SalesPerson3
+17,TV,B2B,High End,4,5999,5910,6214,7504,SalesPerson4
+17,TV,B2B,Mid Cap,5,6690,6579,6963,8403,SalesPerson5
+17,TV,B2B,Low End,6,4200,4134,4402,5175,SalesPerson6
+17,Web,B2B,High End,7,6100,5910,6214,7504,SalesPerson7
+17,Web,B2B,Mid Cap,8,6725,6579,6963,8403,SalesPerson8
+17,Web,B2B,Low End,9,4233,4134,4402,5175,SalesPerson9
+17,Radio,B2B,High End,10,6000,5910,6214,7504,SalesPerson10
+17,Radio,B2B,Mid Cap,11,6754,6579,6963,8403,SalesPerson11
+18,Radio,B2B,Low End,12,4283,4134,4402,5175,SalesPerson12
+3,Ad,Teen,High End,13,4232,4067,4334,5070,SalesPerson1
+3,Ad,Teen,Mid Cap,14,2487,2379,2576,2973,SalesPerson2
+3,Ad,Teen,Low End,15,1765,1693,1854,2197,SalesPerson3
+3,TV,Teen,High End,16,4189,4067,4334,5070,SalesPerson4
+3,TV,Teen,Mid Cap,17,2505,2379,2576,2973,SalesPerson5
+3,TV,Teen,Low End,18,1800,1693,1854,2197,SalesPerson6
+3,Web,Teen,High End,19,4189,4067,4334,5070,SalesPerson7
+3,Web,Teen,Mid Cap,20,2530,2379,2576,2973,SalesPerson8
+3,Web,Teen,Low End,21,1802,1693,1854,2197,SalesPerson9
+3,Radio,Teen,High End,22,4166,4067,4334,5070,SalesPerson10
+3,Radio,Teen,Mid Cap,23,2485,2379,2576,2973,SalesPerson11
+3,Radio,Teen,Low End,24,1780,1693,1854,2197,SalesPerson12
+6,Ad,College Student,High End,25,5442,5295,5634,6768,SalesPerson1
+6,Ad,College Student,Mid Cap,26,3822,3698,3966,4771,SalesPerson2
+6,Ad,College Student,Low End,27,2550,2409,2610,3013,SalesPerson3
+6,TV,College Student,High End,28,5536,5295,5634,6768,SalesPerson4
+6,TV,College Student,Mid Cap,29,3820,3698,3966,4771,SalesPerson5
+6,TV,College Student,Low End,30,2545,2409,2610,3013,SalesPerson6
+6,Web,College Student,High End,31,5488,5295,5634,6768,SalesPerson7
+6,Web,College Student,Mid Cap,32,3825,3698,3966,4771,SalesPerson8
+6,Web,College Student,Low End,33,2431,2409,2610,3013,SalesPerson9
+6,Radio,College Student,High End,34,5434,5295,5634,6768,SalesPerson10
+6,Radio,College Student,Mid Cap,35,3755,3698,3966,4771,SalesPerson11
+6,Radio,College Student,Low End,36,2584,2409,2610,3013,SalesPerson12
+9,Ad,Millenial,High End,37,7326,7073,7494,9046,SalesPerson1
+9,Ad,Millenial,Mid Cap,38,6104,5735,6106,7298,SalesPerson2
+9,Ad,Millenial,Low End,39,3546,3296,3574,4300,SalesPerson3
+9,TV,Millenial,High End,40,7320,7073,7494,9046,SalesPerson4
+9,TV,Millenial,Mid Cap,41,5889,5735,6106,7298,SalesPerson5
+9,TV,Millenial,Low End,42,3457,3296,3574,4300,SalesPerson6
+9,Web,Millenial,High End,43,7242,7073,7494,9046,SalesPerson7
+9,Web,Millenial,Mid Cap,44,5896,5735,6106,7298,SalesPerson8
+9,Web,Millenial,Low End,45,3357,3296,3574,4300,SalesPerson9
+9,Radio,Millenial,High End,46,7277,7073,7494,9046,SalesPerson10
+9,Radio,Millenial,Mid Cap,47,5772,5735,6106,7298,SalesPerson11
+9,Radio,Millenial,Low End,48,3369,3296,3574,4300,SalesPerson12
+12,Ad,Genz,High End,49,5817,5725,5984,7504,SalesPerson1
+12,Ad,Genz,Mid Cap,50,2208,2117,2286,2843,SalesPerson2
+12,Ad,Genz,Low End,51,4513,4333,4570,5351,SalesPerson3
+12,TV,Genz,High End,52,4208,3965,4271,5007,SalesPerson4
+12,TV,Genz,Mid Cap,53,3418,3356,3642,4297,SalesPerson5
+12,TV,Genz,Low End,54,2455,2382,2551,2990,SalesPerson6
+12,Web,Genz,High End,55,6974,6601,6977,8429,SalesPerson7
+12,Web,Genz,Mid Cap,56,4793,4561,4862,5738,SalesPerson8
+12,Web,Genz,Low End,57,3231,3015,3296,4059,SalesPerson9
+12,Radio,Genz,High End,58,4726,4643,4975,6058,SalesPerson10
+12,Radio,Genz,Mid Cap,59,3212,3210,3464,4192,SalesPerson11
+12,Radio,Genz,Low End,60,1843,1683,1843,2278,SalesPerson12
+16,Ad,Senior,High End,61,7199,7135,7524,9018,SalesPerson1
+15,Ad,Senior,Mid Cap,62,4824,4484,4841,5906,SalesPerson2
+15,Ad,Senior,Low End,63,2794,2713,2902,3361,SalesPerson3
+15,TV,Senior,High End,64,4198,4005,4341,5207,SalesPerson4
+15,TV,Senior,Mid Cap,65,4908,4767,5065,6021,SalesPerson5
+15,TV,Senior,Low End,66,3578,3528,3796,4551,SalesPerson6
+15,Web,Senior,High End,67,6099,5728,6152,7403,SalesPerson7
+15,Web,Senior,Mid Cap,68,5285,5249,5581,6686,SalesPerson8
+15,Web,Senior,Low End,69,3087,2875,3134,4021,SalesPerson9
+15,Radio,Senior,High End,70,3589,3571,3840,4588,SalesPerson10
+15,Radio,Senior,Mid Cap,71,3298,3206,3450,4029,SalesPerson11
+15,Radio,Senior,Low End,72,2973,2944,3167,3831,SalesPerson12
+18,Ad,B2B,High End,1,6134,5910,6214,7504,SalesPerson1
+18,Ad,B2B,Mid Cap,2,6811,6579,6963,8403,SalesPerson2
+18,Ad,B2B,Low End,3,4391,4134,4402,5175,SalesPerson3
+18,TV,B2B,High End,4,6000,5910,6214,7504,SalesPerson4
+18,TV,B2B,Mid Cap,5,6726,6579,6963,8403,SalesPerson5
+18,TV,B2B,Low End,6,4301,4134,4402,5175,SalesPerson6
+18,Web,B2B,High End,7,6155,5910,6214,7504,SalesPerson7
+18,Web,B2B,Mid Cap,8,6843,6579,6963,8403,SalesPerson8
+18,Web,B2B,Low End,9,4311,4134,4402,5175,SalesPerson9
+18,Radio,B2B,High End,10,6055,5910,6214,7504,SalesPerson10
+18,Radio,B2B,Mid Cap,11,6823,6579,6963,8403,SalesPerson11
+18,Radio,B2B,Low End,12,4348,4134,4402,5175,SalesPerson12
+1,Ad,Teen,High End,13,4300,4067,4334,5070,SalesPerson1
+1,Ad,Teen,Mid Cap,14,2532,2379,2576,2973,SalesPerson2
+1,Ad,Teen,Low End,15,1802,1693,1854,2197,SalesPerson3
+1,TV,Teen,High End,16,4256,4067,4334,5070,SalesPerson4
+1,TV,Teen,Mid Cap,17,2379,2379,2576,2973,SalesPerson5
+1,TV,Teen,Low End,18,1825,1693,1854,2197,SalesPerson6
+1,Web,Teen,High End,19,4255,4067,4334,5070,SalesPerson7
+1,Web,Teen,Mid Cap,20,2498,2379,2576,2973,SalesPerson8
+1,Web,Teen,Low End,21,1835,1693,1854,2197,SalesPerson9
+1,Radio,Teen,High End,22,4221,4067,4334,5070,SalesPerson10
+1,Radio,Teen,Mid Cap,23,2530,2379,2576,2973,SalesPerson11
+1,Radio,Teen,Low End,24,1812,1693,1854,2197,SalesPerson12
+4,Ad,College Student,High End,25,5523,5295,5634,6768,SalesPerson1
+4,Ad,College Student,Mid Cap,26,3890,3698,3966,4771,SalesPerson2
+4,Ad,College Student,Low End,27,2600,2409,2610,3013,SalesPerson3
+4,TV,College Student,High End,28,5367,5295,5634,6768,SalesPerson4
+4,TV,College Student,Mid Cap,29,3885,3698,3966,4771,SalesPerson5
+4,TV,College Student,Low End,30,2523,2409,2610,3013,SalesPerson6
+4,Web,College Student,High End,31,5483,5295,5634,6768,SalesPerson7
+4,Web,College Student,Mid Cap,32,3881,3698,3966,4771,SalesPerson8
+4,Web,College Student,Low End,33,2556,2409,2610,3013,SalesPerson9
+4,Radio,College Student,High End,34,5443,5295,5634,6768,SalesPerson10
+4,Radio,College Student,Mid Cap,35,3699,3698,3966,4771,SalesPerson11
+4,Radio,College Student,Low End,36,2551,2409,2610,3013,SalesPerson12
+7,Ad,Millenial,High End,37,7359,7073,7494,9046,SalesPerson1
+7,Ad,Millenial,Mid Cap,38,6007,5735,6106,7298,SalesPerson2
+7,Ad,Millenial,Low End,39,3309,3296,3574,4300,SalesPerson3
+7,TV,Millenial,High End,40,7408,7073,7494,9046,SalesPerson4
+7,TV,Millenial,Mid Cap,41,5939,5735,6106,7298,SalesPerson5
+7,TV,Millenial,Low End,42,3395,3296,3574,4300,SalesPerson6
+7,Web,Millenial,High End,43,7205,7073,7494,9046,SalesPerson7
+7,Web,Millenial,Mid Cap,44,5905,5735,6106,7298,SalesPerson8
+7,Web,Millenial,Low End,45,3329,3296,3574,4300,SalesPerson9
+7,Radio,Millenial,High End,46,7292,7073,7494,9046,SalesPerson10
+7,Radio,Millenial,Mid Cap,47,6035,5735,6106,7298,SalesPerson11
+7,Radio,Millenial,Low End,48,3505,3296,3574,4300,SalesPerson12
+10,Ad,Genz,High End,49,5780,5725,5984,7504,SalesPerson1
+10,Ad,Genz,Mid Cap,50,2234,2117,2286,2843,SalesPerson2
+10,Ad,Genz,Low End,51,4484,4333,4570,5351,SalesPerson3
+10,TV,Genz,High End,52,4166,3965,4271,5007,SalesPerson4
+10,TV,Genz,Mid Cap,53,3493,3356,3642,4297,SalesPerson5
+10,TV,Genz,Low End,54,2474,2382,2551,2990,SalesPerson6
+10,Web,Genz,High End,55,6804,6601,6977,8429,SalesPerson7
+10,Web,Genz,Mid Cap,56,4635,4561,4862,5738,SalesPerson8
+10,Web,Genz,Low End,57,3015,3015,3296,4059,SalesPerson9
+10,Radio,Genz,High End,58,4776,4643,4975,6058,SalesPerson10
+10,Radio,Genz,Mid Cap,59,3277,3210,3464,4192,SalesPerson11
+10,Radio,Genz,Low End,60,1810,1683,1843,2278,SalesPerson12
+17,Ad,Senior,High End,61,7346,7135,7524,9018,SalesPerson1
+13,Ad,Senior,Mid Cap,62,4841,4484,4841,5906,SalesPerson2
+13,Ad,Senior,Low End,63,2726,2713,2902,3361,SalesPerson3
+13,TV,Senior,High End,64,4110,4005,4341,5207,SalesPerson4
+13,TV,Senior,Mid Cap,65,4820,4767,5065,6021,SalesPerson5
+13,TV,Senior,Low End,66,3558,3528,3796,4551,SalesPerson6
+13,Web,Senior,High End,67,6063,5728,6152,7403,SalesPerson7
+13,Web,Senior,Mid Cap,68,5458,5249,5581,6686,SalesPerson8
+13,Web,Senior,Low End,69,3035,2875,3134,4021,SalesPerson9
+13,Radio,Senior,High End,70,3573,3571,3840,4588,SalesPerson10
+13,Radio,Senior,Mid Cap,71,3388,3206,3450,4029,SalesPerson11
+13,Radio,Senior,Low End,72,3028,2944,3167,3831,SalesPerson12
+19,Ad,B2B,High End,1,6200,5910,6214,7504,SalesPerson1
+19,Ad,B2B,Mid Cap,2,6634,6579,6963,8403,SalesPerson2
+19,Ad,B2B,Low End,3,4400,4134,4402,5175,SalesPerson3
+19,TV,B2B,High End,4,6120,5910,6214,7504,SalesPerson4
+19,TV,B2B,Mid Cap,5,6802,6579,6963,8403,SalesPerson5
+19,TV,B2B,Low End,6,4355,4134,4402,5175,SalesPerson6
+19,Web,B2B,High End,7,6182,5910,6214,7504,SalesPerson7
+19,Web,B2B,Mid Cap,8,6921,6579,6963,8403,SalesPerson8
+19,Web,B2B,Low End,9,4376,4134,4402,5175,SalesPerson9
+19,Radio,B2B,High End,10,5958,5910,6214,7504,SalesPerson10
+19,Radio,B2B,Mid Cap,11,6901,6579,6963,8403,SalesPerson11
+19,Radio,B2B,Low End,12,4215,4134,4402,5175,SalesPerson12
+2,Ad,Teen,High End,13,4176,4067,4334,5070,SalesPerson1
+2,Ad,Teen,Mid Cap,14,2379,2379,2576,2973,SalesPerson2
+2,Ad,Teen,Low End,15,1836,1693,1854,2197,SalesPerson3
+2,TV,Teen,High End,16,4323,4067,4334,5070,SalesPerson4
+2,TV,Teen,Mid Cap,17,2542,2379,2576,2973,SalesPerson5
+2,TV,Teen,Low End,18,1840,1693,1854,2197,SalesPerson6
+2,Web,Teen,High End,19,4321,4067,4334,5070,SalesPerson7
+2,Web,Teen,Mid Cap,20,2412,2379,2576,2973,SalesPerson8
+2,Web,Teen,Low End,21,1789,1693,1854,2197,SalesPerson9
+2,Radio,Teen,High End,22,4288,4067,4334,5070,SalesPerson10
+2,Radio,Teen,Mid Cap,23,2456,2379,2576,2973,SalesPerson11
+2,Radio,Teen,Low End,24,1835,1693,1854,2197,SalesPerson12
+5,Ad,College Student,High End,25,5590,5295,5634,6768,SalesPerson1
+5,Ad,College Student,Mid Cap,26,3927,3698,3966,4771,SalesPerson2
+5,Ad,College Student,Low End,27,2650,2409,2610,3013,SalesPerson3
+5,TV,College Student,High End,28,5299,5295,5634,6768,SalesPerson4
+5,TV,College Student,Mid Cap,29,3925,3698,3966,4771,SalesPerson5
+5,TV,College Student,Low End,30,2599,2409,2610,3013,SalesPerson6
+5,Web,College Student,High End,31,5454,5295,5634,6768,SalesPerson7
+5,Web,College Student,Mid Cap,32,3819,3698,3966,4771,SalesPerson8
+5,Web,College Student,Low End,33,2603,2409,2610,3013,SalesPerson9
+5,Radio,College Student,High End,34,5487,5295,5634,6768,SalesPerson10
+5,Radio,College Student,Mid Cap,35,3874,3698,3966,4771,SalesPerson11
+5,Radio,College Student,Low End,36,2503,2409,2610,3013,SalesPerson12
+8,Ad,Millenial,High End,37,7076,7073,7494,9046,SalesPerson1
+8,Ad,Millenial,Mid Cap,38,5875,5735,6106,7298,SalesPerson2
+8,Ad,Millenial,Low End,39,3535,3296,3574,4300,SalesPerson3
+8,TV,Millenial,High End,40,7103,7073,7494,9046,SalesPerson4
+8,TV,Millenial,Mid Cap,41,5880,5735,6106,7298,SalesPerson5
+8,TV,Millenial,Low End,42,3434,3296,3574,4300,SalesPerson6
+8,Web,Millenial,High End,43,7390,7073,7494,9046,SalesPerson7
+8,Web,Millenial,Mid Cap,44,5836,5735,6106,7298,SalesPerson8
+8,Web,Millenial,Low End,45,3447,3296,3574,4300,SalesPerson9
+8,Radio,Millenial,High End,46,7432,7073,7494,9046,SalesPerson10
+8,Radio,Millenial,Mid Cap,47,6020,5735,6106,7298,SalesPerson11
+8,Radio,Millenial,Low End,48,3469,3296,3574,4300,SalesPerson12
+11,Ad,Genz,High End,49,5826,5725,5984,7504,SalesPerson1
+11,Ad,Genz,Mid Cap,50,2260,2117,2286,2843,SalesPerson2
+11,Ad,Genz,Low End,51,4481,4333,4570,5351,SalesPerson3
+11,TV,Genz,High End,52,4187,3965,4271,5007,SalesPerson4
+11,TV,Genz,Mid Cap,53,3623,3356,3642,4297,SalesPerson5
+11,TV,Genz,Low End,54,2499,2382,2551,2990,SalesPerson6
+11,Web,Genz,High End,55,6678,6601,6977,8429,SalesPerson7
+11,Web,Genz,Mid Cap,56,4797,4561,4862,5738,SalesPerson8
+11,Web,Genz,Low End,57,3044,3015,3296,4059,SalesPerson9
+11,Radio,Genz,High End,58,4858,4643,4975,6058,SalesPerson10
+11,Radio,Genz,Mid Cap,59,3353,3210,3464,4192,SalesPerson11
+11,Radio,Genz,Low End,60,1774,1683,1843,2278,SalesPerson12
+17,Ad,Senior,High End,61,7308,7135,7524,9018,SalesPerson1
+14,Ad,Senior,Mid Cap,62,4541,4484,4841,5906,SalesPerson2
+14,Ad,Senior,Low End,63,2872,2713,2902,3361,SalesPerson3
+14,TV,Senior,High End,64,4051,4005,4341,5207,SalesPerson4
+14,TV,Senior,Mid Cap,65,4965,4767,5065,6021,SalesPerson5
+14,TV,Senior,Low End,66,3604,3528,3796,4551,SalesPerson6
+14,Web,Senior,High End,67,6020,5728,6152,7403,SalesPerson7
+14,Web,Senior,Mid Cap,68,5374,5249,5581,6686,SalesPerson8
+14,Web,Senior,Low End,69,2908,2875,3134,4021,SalesPerson9
+14,Radio,Senior,High End,70,3573,3571,3840,4588,SalesPerson10
+14,Radio,Senior,Mid Cap,71,3413,3206,3450,4029,SalesPerson11
+14,Radio,Senior,Low End,72,3114,2944,3167,3831,SalesPerson12
+20,Ad,B2B,High End,1,5999,5910,6214,7504,SalesPerson1
+20,Ad,B2B,Mid Cap,2,6950,6579,6963,8403,SalesPerson2
+20,Ad,B2B,Low End,3,4177,4134,4402,5175,SalesPerson3
+20,TV,B2B,High End,4,6199,5910,6214,7504,SalesPerson4
+20,TV,B2B,Mid Cap,5,6900,6579,6963,8403,SalesPerson5
+20,TV,B2B,Low End,6,4390,4134,4402,5175,SalesPerson6
+20,Web,B2B,High End,7,6213,5910,6214,7504,SalesPerson7
+20,Web,B2B,Mid Cap,8,6960,6579,6963,8403,SalesPerson8
+20,Web,B2B,Low End,9,4425,4134,4402,5175,SalesPerson9
+20,Radio,B2B,High End,10,6111,5910,6214,7504,SalesPerson10
+20,Radio,B2B,Mid Cap,11,6950,6579,6963,8403,SalesPerson11
+20,Radio,B2B,Low End,12,4367,4134,4402,5175,SalesPerson12
+3,Ad,Teen,High End,13,4090,4067,4334,5070,SalesPerson1
+3,Ad,Teen,Mid Cap,14,2555,2379,2576,2973,SalesPerson2
+3,Ad,Teen,Low End,15,1845,1693,1854,2197,SalesPerson3
+3,TV,Teen,High End,16,4389,4067,4334,5070,SalesPerson4
+3,TV,Teen,Mid Cap,17,2576,2379,2576,2973,SalesPerson5
+3,TV,Teen,Low End,18,1850,1693,1854,2197,SalesPerson6
+3,Web,Teen,High End,19,4387,4067,4334,5070,SalesPerson7
+3,Web,Teen,Mid Cap,20,2387,2379,2576,2973,SalesPerson8
+3,Web,Teen,Low End,21,1712,1693,1854,2197,SalesPerson9
+3,Radio,Teen,High End,22,4334,4067,4334,5070,SalesPerson10
+3,Radio,Teen,Mid Cap,23,2379,2379,2576,2973,SalesPerson11
+3,Radio,Teen,Low End,24,1854,1693,1854,2197,SalesPerson12
+6,Ad,College Student,High End,25,5618,5295,5634,6768,SalesPerson1
+6,Ad,College Student,Mid Cap,26,3960,3698,3966,4771,SalesPerson2
+6,Ad,College Student,Low End,27,2700,2409,2610,3013,SalesPerson3
+6,TV,College Student,High End,28,5580,5295,5634,6768,SalesPerson4
+6,TV,College Student,Mid Cap,29,3960,3698,3966,4771,SalesPerson5
+6,TV,College Student,Low End,30,2421,2409,2610,3013,SalesPerson6
+6,Web,College Student,High End,31,5634,5295,5634,6768,SalesPerson7
+6,Web,College Student,Mid Cap,32,3777,3698,3966,4771,SalesPerson8
+6,Web,College Student,Low End,33,2441,2409,2610,3013,SalesPerson9
+6,Radio,College Student,High End,34,5332,5295,5634,6768,SalesPerson10
+6,Radio,College Student,Mid Cap,35,3743,3698,3966,4771,SalesPerson11
+6,Radio,College Student,Low End,36,2535,2409,2610,3013,SalesPerson12
+9,Ad,Millenial,High End,37,7243,7073,7494,9046,SalesPerson1
+9,Ad,Millenial,Mid Cap,38,6021,5735,6106,7298,SalesPerson2
+9,Ad,Millenial,Low End,39,3554,3296,3574,4300,SalesPerson3
+9,TV,Millenial,High End,40,7097,7073,7494,9046,SalesPerson4
+9,TV,Millenial,Mid Cap,41,5802,5735,6106,7298,SalesPerson5
+9,TV,Millenial,Low End,42,3346,3296,3574,4300,SalesPerson6
+9,Web,Millenial,High End,43,7214,7073,7494,9046,SalesPerson7
+9,Web,Millenial,Mid Cap,44,6045,5735,6106,7298,SalesPerson8
+9,Web,Millenial,Low End,45,3444,3296,3574,4300,SalesPerson9
+9,Radio,Millenial,High End,46,7344,7073,7494,9046,SalesPerson10
+9,Radio,Millenial,Mid Cap,47,5924,5735,6106,7298,SalesPerson11
+9,Radio,Millenial,Low End,48,3454,3296,3574,4300,SalesPerson12
+12,Ad,Genz,High End,49,5822,5725,5984,7504,SalesPerson1
+12,Ad,Genz,Mid Cap,50,2155,2117,2286,2843,SalesPerson2
+12,Ad,Genz,Low End,51,4450,4333,4570,5351,SalesPerson3
+12,TV,Genz,High End,52,4099,3965,4271,5007,SalesPerson4
+12,TV,Genz,Mid Cap,53,3605,3356,3642,4297,SalesPerson5
+12,TV,Genz,Low End,54,2530,2382,2551,2990,SalesPerson6
+12,Web,Genz,High End,55,6776,6601,6977,8429,SalesPerson7
+12,Web,Genz,Mid Cap,56,4598,4561,4862,5738,SalesPerson8
+12,Web,Genz,Low End,57,3077,3015,3296,4059,SalesPerson9
+12,Radio,Genz,High End,58,4780,4643,4975,6058,SalesPerson10
+12,Radio,Genz,Mid Cap,59,3384,3210,3464,4192,SalesPerson11
+12,Radio,Genz,Low End,60,1796,1683,1843,2278,SalesPerson12
+17,Ad,Senior,High End,61,7247,7135,7524,9018,SalesPerson1
+15,Ad,Senior,Mid Cap,62,4828,4484,4841,5906,SalesPerson2
+15,Ad,Senior,Low End,63,2847,2713,2902,3361,SalesPerson3
+15,TV,Senior,High End,64,4255,4005,4341,5207,SalesPerson4
+15,TV,Senior,Mid Cap,65,5043,4767,5065,6021,SalesPerson5
+15,TV,Senior,Low End,66,3609,3528,3796,4551,SalesPerson6
+15,Web,Senior,High End,67,5944,5728,6152,7403,SalesPerson7
+15,Web,Senior,Mid Cap,68,5361,5249,5581,6686,SalesPerson8
+15,Web,Senior,Low End,69,2903,2875,3134,4021,SalesPerson9
+15,Radio,Senior,High End,70,3573,3571,3840,4588,SalesPerson10
+15,Radio,Senior,Mid Cap,71,3426,3206,3450,4029,SalesPerson11
+15,Radio,Senior,Low End,72,3119,2944,3167,3831,SalesPerson12
